@@ -1,1 +1,1 @@
-# Bakalarka
+# Interaktívna učebnica
